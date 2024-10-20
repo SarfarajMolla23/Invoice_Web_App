@@ -27,13 +27,13 @@ Features of the app:
    
 5. There is three button in the Actions area you can see one is send email you can send Email to the the person you want send invoice via Email, you can edit the invoice and delete also and it all connected through data base with mongodb.
  
-6. You can add new customer  (see page 5) : You can put name, business name, business description, Email, Phone, Image url and your new customer will be created in data base, after filling the form when you will click submit you will get a notification that cutomer has been created(see in page 6 and 7) this happens because of react-tostify package.
+6. You can add new customer  (see page 5) : You can put name, business name, business description, Email, Phone, Image url and your new customer will be created in data base, after filling the form when you will click submit you will get a notification that cutomer has been created (see in page 6 and 7) this happens because of react-tostify package.
 
-7. You can delete Invoice by clicking the delete button and after clicking the delete button a popup will arrive(see in page 8): You have to write delete to delete the invoice and after writing delete and when you click the delete button(see page 9): another alert popup will arrive that you sure want to delete invoice and when you click your invoice it will be deleted successully and a popup will arrive via react-tostify and it will say invoice deleted successfully(see page 10).
+7. You can delete Invoice by clicking the delete button and after clicking the delete button a popup will arrive (see in page 8): You have to write delete to delete the invoice and after writing delete and when you click the delete button (see page 9): another alert popup will arrive that you sure want to delete invoice and when you click your invoice it will be deleted successully and a popup will arrive via react-tostify and it will say invoice deleted successfully (see page 10).
   
 8. And you can create Invoice by clicking the create Invoice button (see page 11): By clicking the arrow button you can see all the customer name that has been registered (see page 12): and you can create invoice, after clicking create invoice button a popup will arrive and will say invoice created sucessfully (see page 13).
   
-9.  You can update the Invoice by clicking the update button in the action area (see page 14) after clicking update invoice button a popup will arrive an will say invoice updated successfully.
+9.  You can update the Invoice by clicking the update button in the action area (see page 14) after clicking update invoice button a popup will arrive (see page 15) an will say invoice updated successfully.
  
 
 
