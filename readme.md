@@ -1,6 +1,6 @@
 # INVOICE WEB APP
 
-Technologies and toolsused:
+Technologies and tools used:
 
  1. NextJS
  2. NodeJS(with Express)
