@@ -11,7 +11,7 @@ export default function Header() {
         <nav>
           <ul className="flex gap-2">
             <li>
-              <Link href="/" className="text-white">Home</Link>
+              <Link href="/" className="text-white hover:text-orange-400">Home</Link>
             </li>
             {/* <li>
               <Link href="/customers" className="text-white">Customers</Link>
