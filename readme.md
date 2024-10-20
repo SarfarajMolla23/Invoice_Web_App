@@ -16,19 +16,19 @@ Steps to run:
 
 Features of the app:
 
-1. On the home page all the invoice summaries can be viewed (see image 1): You can see many invoices are there you can see the name, business name, Enmail, Phone No., Amount ,Status, Date of creation, Status and the background (green/red) of the invoice indicates whether it's past the due date or not, and you can paginate from one page to next page thorugh pagination.
+1. On the home page all the invoice summaries can be viewed (see image 1): You can see many invoices are there you can see the name, business name, E-mail, Phone No., Amount ,Status, Date of creation, Status and the background (green/red) of the invoice indicates whether it's past the due date or not, and you can paginate from one page to next page thorugh pagination.
    
 2. You can see the total amount how much amount is  pending and how much amount has been paid.
    
-3. There is three button in the Actions area you can see one is send email you can send Email to the the person you want send invoice via Email, you can edit the invoice and delete also and it all connected through data base.
+3. There is three button in the Actions area you can see one is send email you can send Email to the the person you want send invoice via Email, you can edit the invoice and delete also and it all connected through data base with mongodb.
  
-4. You can add new customer  (see page 2) : You can put name ,business name, business description, Email,Phone,Image url and your new customer will be created in data base, after filling the form when you will click submit you will get a notification that cutomer has been created(see in page 4) this happens because of react-tostify package.
+4. You can add new customer  (see page 2) : You can put name, business name, business description, Email, Phone, Image url and your new customer will be created in data base, after filling the form when you will click submit you will get a notification that cutomer has been created(see in page 4) this happens because of react-tostify package.
 
-5.  You can delete Invoice by clicking the delete button and after clicking the delete button a popup will arrive(see in page 5): You have to write delete to delete the invoice and after writing delete and when you click the delete button(see page 6): another alert popup will arrive that you sure want to delete invoice and when you click your invoice will be deleted successully and a popoup will arrive via react-tostify and it will say invoice deleted successfully(see page 7).
+5.  You can delete Invoice by clicking the delete button and after clicking the delete button a popup will arrive(see in page 5): You have to write delete to delete the invoice and after writing delete and when you click the delete button(see page 6): another alert popup will arrive that you sure want to delete invoice and when you click your invoice it will be deleted successully and a popup will arrive via react-tostify and it will say invoice deleted successfully(see page 7).
   
-6. And you can create Invoice by clicking the create Invoice button (see page 8): By clicking the arrow button you can see all the customer name that has been registered (see page 9): and you can create invoice, after clicking create invoice button a popup will arrive and will say invoice created sucessfully (see page 10): You can update the Invoice by clicking the update button in the action area (see page 11) after clicking update invoice button a popup will arrive an will say invooice updated successfully.
+6. And you can create Invoice by clicking the create Invoice button (see page 8): By clicking the arrow button you can see all the customer name that has been registered (see page 9): and you can create invoice, after clicking create invoice button a popup will arrive and will say invoice created sucessfully (see page 10): You can update the Invoice by clicking the update button in the action area (see page 11) after clicking update invoice button a popup will arrive an will say invoice updated successfully.
  
-7. You can send yor invoice via Email the the specific you want to send and a invoice page will create where the client full details will arrive you can see (see page 13 and 14) a pop up will show that Invoice sent successfully
+7. You can send yor invoice via Email the the specific person you want to send and a invoice page will create where the client full details will arrive you can see (see page 13 and 14) a pop up will show that Invoice sent successfully.
 
 Demo images of the Web App:
 
