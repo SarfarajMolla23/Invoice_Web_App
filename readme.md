@@ -24,7 +24,7 @@ Features of the app:
 6. And you can create Invoice by clicking the create Invoice button (see page 8): By clicking the arrow button you can see all the customer name that has been registered (see page 9): and you can create invoice, after clicking create invoice button a popup will arrive and will say invoice created sucessfully (see page 10): You can update the Invoice by clicking the update button in the action area (see page 11) after clicking update invoice button a popup will arrive an will say invooice updated successfully. 
 7. You can send yor invoice via Email the the specific you want to send and a invoice page will create where the client full details will arrive you can see (see page 13 and 14) a pop up will show that Invoice sent successfully
 
-Demo images of the Web App;
+Demo images of the Web App:
 
 image 1:
  ![Screenshot 2024-10-20 183652](https://github.com/user-attachments/assets/e1d8dcac-81bf-4c84-875b-ce7974fcc2c0)
