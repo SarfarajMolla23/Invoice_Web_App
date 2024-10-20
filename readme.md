@@ -27,7 +27,7 @@ Features of the app:
    
 5. There is three button in the Actions area you can see one is send email you can send Email to the the person you want send invoice via Email, you can edit the invoice and delete also and it all connected through data base with mongodb.
  
-6. You can add new customer  (see page 5) : You can put name, business name, business description, Email, Phone, Image url and your new customer will be created in data base, after filling the form when you will click submit you will get a notification that cutomer has been created(see in page 6) this happens because of react-tostify package.
+6. You can add new customer  (see page 5) : You can put name, business name, business description, Email, Phone, Image url and your new customer will be created in data base, after filling the form when you will click submit you will get a notification that cutomer has been created(see in page 6 and 7) this happens because of react-tostify package.
 
 7. You can delete Invoice by clicking the delete button and after clicking the delete button a popup will arrive(see in page 7): You have to write delete to delete the invoice and after writing delete and when you click the delete button(see page 8): another alert popup will arrive that you sure want to delete invoice and when you click your invoice it will be deleted successully and a popup will arrive via react-tostify and it will say invoice deleted successfully(see page 9).
   
