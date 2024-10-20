@@ -24,20 +24,36 @@ Features of the app:
 6. And you can create Invoice by clicking the create Invoice button (see page 8): By clicking the arrow button you can see all the customer name that has been registered (see page 9): and you can create invoice, after clicking create invoice button a popup will arrive and will say invoice created sucessfully (see page 10): You can update the Invoice by clicking the update button in the action area (see page 11) after clicking update invoice button a popup will arrive an will say invooice updated successfully. 
 7. You can send yor invoice via Email the the specific you want to send and a invoice page will create where the client full details will arrive you can see (see page 13 and 14) a pop up will show that Invoice sent successfully
 
-1. ![Screenshot 2024-10-20 183652](https://github.com/user-attachments/assets/e1d8dcac-81bf-4c84-875b-ce7974fcc2c0)
-2. ![Screenshot 2024-10-20 183755](https://github.com/user-attachments/assets/a6c03c0f-aa6a-444f-9168-f2f3a5c8d4cc)
-3. ![Screenshot 2024-10-20 183904](https://github.com/user-attachments/assets/079e7db4-a07f-4562-889c-f1e89a11ae0a)
-4. ![Screenshot 2024-10-20 183916](https://github.com/user-attachments/assets/0bd26310-a9ff-410d-873b-e382e1df8a3b)
-5. ![Screenshot 2024-10-20 183944](https://github.com/user-attachments/assets/e7f90c75-f5b0-4036-aa44-965890d18f69)
-6. ![Screenshot 2024-10-20 184005](https://github.com/user-attachments/assets/dff951a6-fae7-49e7-ba51-053b65852d58)
-7. ![Screenshot 2024-10-20 184018](https://github.com/user-attachments/assets/42304e23-0d9d-43e9-9ca7-c7292e85b063)
-8. ![Screenshot 2024-10-20 184047](https://github.com/user-attachments/assets/e55c6bc1-25d2-4804-8b4b-135080bed5db)
-9.![Screenshot 2024-10-20 192204](https://github.com/user-attachments/assets/f88ab292-e288-4e80-a431-1b28bd648169)
-10. ![Screenshot 2024-10-20 184104](https://github.com/user-attachments/assets/0b6a351e-9442-400d-b2c1-0005aa662811)
-11. ![Screenshot 2024-10-20 184301](https://github.com/user-attachments/assets/130cc592-f267-4d4c-a296-ddfee1ec4d7f)
-12. ![Screenshot 2024-10-20 184323](https://github.com/user-attachments/assets/3b4db22e-86e4-4b61-8082-555739155a8a)
-13. ![Screenshot 2024-10-20 184201](https://github.com/user-attachments/assets/9f69e050-8eb5-497c-bf73-097ca08fca5c)
-14. ![Screenshot 2024-10-20 184213](https://github.com/user-attachments/assets/5f4c1dd2-9d93-472f-b3b7-8dfe06d3e841)
+Demo images of the Web App;
+
+image 1:
+ ![Screenshot 2024-10-20 183652](https://github.com/user-attachments/assets/e1d8dcac-81bf-4c84-875b-ce7974fcc2c0)
+ image 2:
+ ![Screenshot 2024-10-20 183755](https://github.com/user-attachments/assets/a6c03c0f-aa6a-444f-9168-f2f3a5c8d4cc)
+ image 3:
+ ![Screenshot 2024-10-20 183904](https://github.com/user-attachments/assets/079e7db4-a07f-4562-889c-f1e89a11ae0a)
+4. image 4:
+ ![Screenshot 2024-10-20 183916](https://github.com/user-attachments/assets/0bd26310-a9ff-410d-873b-e382e1df8a3b)
+ image 5:
+ ![Screenshot 2024-10-20 183944](https://github.com/user-attachments/assets/e7f90c75-f5b0-4036-aa44-965890d18f69)
+  image 6:
+ ![Screenshot 2024-10-20 184005](https://github.com/user-attachments/assets/dff951a6-fae7-49e7-ba51-053b65852d58)
+ image 7:
+ ![Screenshot 2024-10-20 184018](https://github.com/user-attachments/assets/42304e23-0d9d-43e9-9ca7-c7292e85b063)
+ image 8:
+ ![Screenshot 2024-10-20 184047](https://github.com/user-attachments/assets/e55c6bc1-25d2-4804-8b4b-135080bed5db)
+ image 9:
+![Screenshot 2024-10-20 192204](https://github.com/user-attachments/assets/f88ab292-e288-4e80-a431-1b28bd648169)
+image 10:
+ ![Screenshot 2024-10-20 184104](https://github.com/user-attachments/assets/0b6a351e-9442-400d-b2c1-0005aa662811)
+ image 11
+ ![Screenshot 2024-10-20 184301](https://github.com/user-attachments/assets/130cc592-f267-4d4c-a296-ddfee1ec4d7f)
+ image 12:
+ ![Screenshot 2024-10-20 184323](https://github.com/user-attachments/assets/3b4db22e-86e4-4b61-8082-555739155a8a)
+ image 13:
+ ![Screenshot 2024-10-20 184201](https://github.com/user-attachments/assets/9f69e050-8eb5-497c-bf73-097ca08fca5c)
+ image 14:
+ ![Screenshot 2024-10-20 184213](https://github.com/user-attachments/assets/5f4c1dd2-9d93-472f-b3b7-8dfe06d3e841)
 
 
 
