@@ -16,7 +16,7 @@ Steps to run:
 
 Features of the app:
 
-1. On the home page all the invoice summaries can be viewed (see image 1): You can see many invoices are you can see the name, business name, Enmail, Phone No., Amount ,Status, Date of creation, Status and the background (green/red) of the invoice indicates whether it's past the due date or not, and you can paginate from one page to next page thorugh pagination.
+1. On the home page all the invoice summaries can be viewed (see image 1): You can see many invoices are there you can see the name, business name, Enmail, Phone No., Amount ,Status, Date of creation, Status and the background (green/red) of the invoice indicates whether it's past the due date or not, and you can paginate from one page to next page thorugh pagination.
 2. You can see the total amount how much amount is  pending and how much amount is pending.   
 3. There is three button in the Actions area you can see one is send email you can send Email to the the person you want send invoice via Email, you can edit the invoice and delete also and it all connected through data base.  
 4. You can add new customer  (see page 2) : You can put name ,business name, business description, Email,Phone,Image url and your new customer will be created in data base, after filling the form when you will click submit you will get a notification that cutomer has been created(see in page 4) this happens because of react-tostify package.
