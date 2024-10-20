@@ -1,4 +1,4 @@
-# INVOCE WEB APP
+# INVOICE WEB APP
 
 Technologies and toolsused:
 
