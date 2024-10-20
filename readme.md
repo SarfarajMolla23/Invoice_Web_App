@@ -31,7 +31,9 @@ Features of the app:
 
 7. You can delete Invoice by clicking the delete button and after clicking the delete button a popup will arrive(see in page 8): You have to write delete to delete the invoice and after writing delete and when you click the delete button(see page 9): another alert popup will arrive that you sure want to delete invoice and when you click your invoice it will be deleted successully and a popup will arrive via react-tostify and it will say invoice deleted successfully(see page 10).
   
-8. And you can create Invoice by clicking the create Invoice button (see page 10): By clicking the arrow button you can see all the customer name that has been registered (see page 11): and you can create invoice, after clicking create invoice button a popup will arrive and will say invoice created sucessfully (see page 12): You can update the Invoice by clicking the update button in the action area (see page 13) after clicking update invoice button a popup will arrive an will say invoice updated successfully.
+8. And you can create Invoice by clicking the create Invoice button (see page 11): By clicking the arrow button you can see all the customer name that has been registered (see page 12): and you can create invoice, after clicking create invoice button a popup will arrive and will say invoice created sucessfully (see page 13).
+  
+9.  You can update the Invoice by clicking the update button in the action area (see page 14) after clicking update invoice button a popup will arrive an will say invoice updated successfully.
  
 
 
