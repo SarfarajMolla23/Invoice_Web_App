@@ -239,4 +239,4 @@ export const invoiceTemplate = `
     </div>
   </body>
 </html>
-`
+`;

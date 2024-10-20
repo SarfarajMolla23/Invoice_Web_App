@@ -6,12 +6,16 @@ export default function Header() {
     <header className="bg-blue-900">
       <div className="container h-16  flex justify-between items-center max-w-[1200px] px-2">
         <div className="logo text-white">
-          <h2 className="text-white font-semibold">Next<span className="text-color-orange">Invoicer</span></h2>
+          <h2 className="text-white font-semibold">
+            Next<span className="text-color-orange">Invoicer</span>
+          </h2>
         </div>
         <nav>
           <ul className="flex gap-2">
             <li>
-              <Link href="/" className="text-white hover:text-orange-400">Home</Link>
+              <Link href="/" className="text-white hover:text-orange-400">
+                Home
+              </Link>
             </li>
             {/* <li>
               <Link href="/customers" className="text-white">Customers</Link>

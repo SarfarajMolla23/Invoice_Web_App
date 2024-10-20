@@ -81,7 +81,6 @@
   animation-timing-function: cubic-bezier(0.5, 2.4, 0.9, 0.9);
 }
 
-
 /* gpt loader */
 /* HTML: <div class="loader"></div> */
 
@@ -144,4 +143,3 @@
     transform: translate(24px, 0);
   }
 }
-
