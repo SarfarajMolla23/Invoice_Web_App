@@ -4,7 +4,7 @@ Technologies and tools used:
 
  1. NextJS
  2. ReactJS
- 3. NodeJS(with Express)
+ 3. NodeJS (with Express)
  4. MongoDB
  5. Tailwind CSS and CSS for design.
 
