@@ -18,7 +18,7 @@ import ReactPaginate from "react-paginate";
 import { BiEdit, BiEnvelope, BiTrash } from "react-icons/bi";
 import { useSearchParams, usePathname, useRouter } from "next/navigation";
 import { useDebouncedCallback } from "use-debounce";
-import InvoiceItem from "@/components/invoiceItem/InvoiceItem";
+
 import ClientItem from "@/components/clientItem/clientItem";
 function ListCustomers({ total, pageNumber, customers }) {
   const router = useRouter();
