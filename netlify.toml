@@ -1,3 +1,0 @@
-[build]
-  command = "next build"    # Or your specific build command
-  publish = ".next/"        # Adjust the directory based on your build tool (e.g., `.next` for Next.js)
