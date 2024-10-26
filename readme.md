@@ -10,9 +10,9 @@ Technologies and tools used:
 
 Steps to run:
  1. Download ZIP file to your local system and extract it.
- 2. cd into the main folder and `run npm i` to install all dependencies.
- 3. cd into the client folder and `run npm i` again.
- 4. Back to the main folder and `run npm run` dev to run the development server.
+ 2. cd into the main folder and run `npm i` to install all dependencies.
+ 3. cd into the client folder and run `npm i` again.
+ 4. Back to the main folder and run `npm run dev` to run the development server.
  5. Open localhost:3000 if that does not happen automatically.
 
 Features of the app:
