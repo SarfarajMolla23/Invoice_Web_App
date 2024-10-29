@@ -1,39 +1,57 @@
-# INVOICE WEB APP
+# Invoice Web Application
 
-Technologies and tools used:
+This web app allows users to manage invoices efficiently, with capabilities for creating, viewing, updating, and emailing invoices to clients.
 
- 1. NextJS
- 2. ReactJS (Frontend)
- 3. NodeJS with express (Backend)
- 4. MongoDB (Database)
- 5. Tailwind CSS and CSS (Styling).
+## Technologies and Tools Used
 
-Steps to run:
- 1. Download ZIP file to your local system and extract it.
- 2. cd into the main folder and run `npm i` to install all dependencies.
- 3. cd into the client folder and run `npm i` again.
- 4. Back to the main folder and run `npm run dev` to run the development server.
- 5. Open localhost:3000 if that does not happen automatically.
+1. **Next.js**
+2. **React.js** (Frontend)
+3. **Node.js** with **Express** (Backend)
+4. **MongoDB** (Database)
+5. **Tailwind CSS** and **CSS** (Styling)
 
-Features of the app:
+## Steps to Run
 
-1. On the home page all the invoice summaries can be viewed (see image 1): You can see many invoices are there you can see the name, business name, E-mail, Phone No., Amount , Status, Date of creation, Status and the background (green/red) of the invoice indicates whether it's past the due date or not, and you can paginate from one page to next page thorugh pagination.
-   
-2. You can see the total amount how much amount is  pending and how much amount has been paid.
+1. Download the ZIP file to your local system and extract it.
+2. Open a terminal and navigate to the main folder, then run `npm i` to install all dependencies.
+3. Navigate to the client folder and run `npm i` again to install frontend dependencies.
+4. Go back to the main folder and run `npm run dev` to start the development server.
+5. Open `localhost:3000` in your browser if it doesn’t open automatically.
 
-3. You can send yor invoice via Email the the specific person you want to send and a invoice page will create where the client full details will arrive you can see (see page 2 and 3) a pop up will show that Invoice sent successfully. 
+## Features of the App
 
-4. After that (see page 4): You can see a mail a has been sent to the client E-mail through my eamil and a invoice has been created 
-   
-5. There is three button in the Actions area you can see one is send email you can send Email to the the person you want send invoice via Email, you can edit the invoice and delete also and it all connected through data base with mongodb.
- 
-6. You can add new customer  (see page 5) : You can put name, business name, business description, Email, Phone, Image url and your new customer will be created in data base, after filling the form when you will click submit you will get a notification that cutomer has been created (see in page 6 and 7) this happens because of react-tostify package.
+1. **Invoice Dashboard**:
+   - The homepage displays all invoice summaries, including the client name, business name, email, phone number, amount, creation date, status, and whether the invoice is overdue (indicated by a red or green background).
+   - Invoices can be paginated for easier navigation.
 
-7. You can delete Invoice by clicking the delete button and after clicking the delete button a popup will arrive (see in page 8): You have to write delete to delete the invoice and after writing delete and when you click the delete button (see page 9): another alert popup will arrive that you sure want to delete invoice and when you click your invoice it will be deleted successully and a popup will arrive via react-tostify and it will say invoice deleted successfully (see page 10).
-  
-8. And you can create Invoice by clicking the create Invoice button (see page 11): By clicking the arrow button you can see all the customer name that has been registered (see page 12): and you can create invoice, after clicking create invoice button a popup will arrive and will say invoice created sucessfully (see page 13).
-  
-9.  You can update the Invoice by clicking the update button in the action area (see page 14) after clicking update invoice button a popup will arrive (see page 15) an will say invoice updated successfully.
+2. **Financial Overview**:
+   - Track the total amount pending and the amount that has been paid.
+
+3. **Email Invoices**:
+   - Send invoices to specific clients via email. Upon sending, a notification confirms successful delivery.
+
+4. **Actions**:
+   - **Send Email**: Resend an invoice to the specified client.
+   - **Edit**: Modify invoice details.
+   - **Delete**: Remove an invoice from the system (see below for details on the deletion process).
+
+5. **Customer Management**:
+   - Add new customers by entering details such as name, business name, description, email, phone, and image URL.
+   - Once submitted, a notification confirms that the customer has been created successfully.
+
+6. **Invoice Deletion**:
+   - Click the delete button to remove an invoice, and a confirmation popup will appear, prompting you to type “delete.”
+   - After confirmation, the invoice is deleted, and a notification confirms the successful deletion.
+
+7. **Create New Invoice**:
+   - Use the **Create Invoice** button to initiate a new invoice.
+   - A dropdown allows selection of any registered customer, and a confirmation popup appears after successful invoice creation.
+
+8. **Update Existing Invoice**:
+   - In the actions area, click the **Update** button to modify invoice details.
+   - A confirmation popup will notify you when the update is successful.
+
+
  
 
 
