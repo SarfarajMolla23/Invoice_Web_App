@@ -3,10 +3,10 @@
 Technologies and tools used:
 
  1. NextJS
- 2. ReactJS (frontend)
- 3. NodeJS (with Express) (server)
- 4. MongoDB (database)
- 5. Tailwind CSS and CSS (for styling).
+ 2. ReactJS (Frontend)
+ 3. NodeJS with express (Backend)
+ 4. MongoDB (Database)
+ 5. Tailwind CSS and CSS (Styling).
 
 Steps to run:
  1. Download ZIP file to your local system and extract it.
